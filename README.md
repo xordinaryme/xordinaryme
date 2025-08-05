@@ -64,7 +64,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/mohammad-iqbal-ramadhan-90a29b300">
+  <a href="https://linkedin.com/in/mohammad-iqbal-ramadhan">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Mohammadiqbalramadhan21@gmail.com">
